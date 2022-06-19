@@ -1,3 +1,5 @@
 Java
 PLSQL
 Data Science
+Thanks You !
+Godd Bye!
